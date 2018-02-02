@@ -1,1 +1,1 @@
-fmake desktop/merda.exe MERDAA
+welcome
