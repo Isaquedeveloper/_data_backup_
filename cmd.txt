@@ -1,1 +1,1 @@
-enable PCGamer
+print Hello,%world!
