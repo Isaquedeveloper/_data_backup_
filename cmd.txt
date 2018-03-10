@@ -1,1 +1,1 @@
-enable PCGamer
+reboot
